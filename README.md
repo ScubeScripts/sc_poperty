@@ -1,4 +1,4 @@
-# sc_poperty
+# sc_property
 
 ### The project is currently still in progress
 
